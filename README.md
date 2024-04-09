@@ -1,3 +1,3 @@
 # OpenCV-learning
 
-Learning basic to advanced level - Implementation - Real time Projects using openCV
+Learning basic to advanced level - Implementation - Real time Projects using OpenCV
